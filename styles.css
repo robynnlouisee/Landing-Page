@@ -54,10 +54,17 @@ button {
 }
 img {
     width: 530px;
-    height: 250px;
+    height: 230px;
     padding: 50px 100px 70px 0px;
 }
 .header2 {
     display: flex;
     background-color: #1F2937;
+}
+h2 {
+   font-size: 36px;
+   color: #1F2937;
+   font-weight: 900; 
+   text-align: center;
+   padding: 30px;
 }
