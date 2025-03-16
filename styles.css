@@ -1,5 +1,6 @@
 body {
     min-width: 1500px;
+    font-family: 'Roboto', sans-serif;
 }
 * {
     margin: 0;
@@ -10,25 +11,44 @@ h1 {
     background-color: #1F2937;
     margin: 0 auto;
     justify-content: space-between;
-    padding: 10px;
+    padding: 20px;
  }
-a {
+a, .info {
     display: flex;
     text-decoration: none;
     font-size: 18px;
-    color: #E5E7EB;
-    font-family: 'Roboto', sans-serif;
+    color: #E5E7EB; 
     font-weight: 100;
    }
 .logo {
     font-size: 24px;
     color: #F9FAF8;
-    font-weight: 900;
-    font-family: 'Roboto', sans-serif;
     padding-left: 200px;
     }
 .links {
     display: flex;
     padding-right: 200px;
      gap: 30px;
+}
+
+.header {
+   font-size: 48px;
+   color: #F9FAF8;
+   font-weight: 900;
+}
+.secondary {
+    background-color: #1F2937;
+    padding: 50px 200px 70px 200px;
+}
+.header, .info {
+    width: 450px;
+}
+button {
+    background: #3882F6;
+    border-radius: 10px;
+    border:#3882F6;
+    width: 120px;
+    height: 35px;
+    margin-top: 10px;
+    padding-left: 30px
 }
