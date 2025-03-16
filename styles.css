@@ -38,9 +38,9 @@ a, .info {
 }
 .secondary {
     background-color: #1F2937;
-    padding: 50px 200px 70px 200px;
+    padding: 50px 100px 70px 200px;
 }
-.header, .info {
+.info, .header {
     width: 450px;
 }
 button {
@@ -51,4 +51,13 @@ button {
     height: 35px;
     margin-top: 10px;
     padding-left: 30px
+}
+img {
+    width: 530px;
+    height: 250px;
+    padding: 50px 100px 70px 0px;
+}
+.header2 {
+    display: flex;
+    background-color: #1F2937;
 }
