@@ -70,7 +70,23 @@ h2 {
 }
 .box {
     border-radius: 10px;
-    border: 1px solid blue;
-    width: 100px;
-    height: 100px;
+    border: 3px solid #3882F6;
+    width: 140px;
+    height: 140px;
+    display: flex;
+    
+    
+}
+.section3 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+    
+}
+.box-description {
+    width: 150px;
+    color: #1F2937;
+    text-align: center;
+    
 }
