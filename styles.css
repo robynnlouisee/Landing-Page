@@ -73,16 +73,12 @@ h2 {
     border: 3px solid #3882F6;
     width: 140px;
     height: 140px;
-    display: flex;
-    
-    
+    display: flex;  
 }
 .section3 {
     display: flex;
     justify-content: center;
-    gap: 50px;
-    
-    
+    gap: 50px;   
 }
 .box-description {
     width: 150px;
@@ -90,4 +86,12 @@ h2 {
     text-align: center;
     font-weight: 100;
     padding-top: 10px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 300;
+    width: 830px;
 }
