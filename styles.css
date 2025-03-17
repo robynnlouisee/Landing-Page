@@ -13,7 +13,7 @@ h1 {
     justify-content: space-between;
     padding: 20px;
  }
-a, .info {
+a, .info, .signup {
     display: flex;
     text-decoration: none;
     font-size: 18px;
@@ -46,11 +46,13 @@ h2 {
 button {
     background: #3882F6;
     border-radius: 10px;
-    border:#3882F6;
     width: 120px;
     height: 35px;
     margin-top: 10px;
-    padding-left: 30px
+    padding-left: 30px;
+}
+.button1 {
+    border: #3882F6;
 }
 img {
     width: 530px;
@@ -107,4 +109,20 @@ h3 {
     font-weight: bold;
     text-align: right;
     padding-right: 300px;
+}
+
+.section5 {
+    box-sizing: content-box;
+    border: 2px solid #3882F6;
+    width: 800px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: #3882F6
+}
+h4 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.button2 {
+    border: 1px solid #F9FAF8
 }
