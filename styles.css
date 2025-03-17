@@ -13,7 +13,7 @@ h1 {
     justify-content: space-between;
     padding: 20px;
  }
-a, .info, .signup {
+a, .info, .signup, footer {
     display: flex;
     text-decoration: none;
     font-size: 18px;
@@ -137,4 +137,11 @@ h4 {
 }
 .button {
     padding-right: 120px;
+}
+
+footer {
+    background: #1F2937;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
 }
