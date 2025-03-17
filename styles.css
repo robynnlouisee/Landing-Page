@@ -31,7 +31,7 @@ a, .info {
      gap: 30px;
 }
 
-.header {
+h2 {
    font-size: 48px;
    color: #F9FAF8;
    font-weight: 900;
@@ -61,7 +61,7 @@ img {
     display: flex;
     background-color: #1F2937;
 }
-h2 {
+h3 {
    font-size: 36px;
    color: #1F2937;
    font-weight: 900; 
