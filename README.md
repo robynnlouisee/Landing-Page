@@ -1,0 +1,1 @@
+A static landing page built using HTML and CSS as part of The Odin Project curriculum. The goal was to recreate a provided design as closely as possible, practicing layout techniques, responsive design, and semantic HTML.
